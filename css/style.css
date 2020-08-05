@@ -1,0 +1,38 @@
+.container{ 
+    background: white;
+    border: 2px solid rgba(215, 237, 241, 0.829);
+}
+
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.main-header img{
+    width: 70px;
+}
+
+.text-fluid{
+    border: 2px solid rgba(165, 215, 224, 0.829);
+    border-style:dotted;
+    border-radius: 15px;
+    text-align: justify;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.col-sm{
+    text-align: justify;
+    justify-content: space-around;
+    border: 1px solid  rgba(165, 215, 224, 0.829);
+    padding: 15px;
+    margin: 10px;
+    margin-top: 25px;
+}
+
+body{
+    background: rgba(215, 237, 241, 0.829);
+}

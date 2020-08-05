@@ -1,0 +1,35 @@
+
+body{
+    background: rgba(215, 237, 241, 0.829);
+}
+
+.main-header{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.main-header img{
+    width: 70px;
+}
+
+.formulario{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+.btn-enviar{
+    background: rgb(197, 202, 202);
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-size: 18px;
+}
+
